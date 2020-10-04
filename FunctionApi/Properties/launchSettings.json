@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FunctionApi": {
+      "commandName": "Project",
+      "commandLineArgs": "start --cors *"
+    }
+  }
+}
